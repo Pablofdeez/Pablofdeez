@@ -1,15 +1,15 @@
-### Hi there, I'm Pablo 👋
+## Hi there, I'm Pablo 👋
 
 Hello my fullname is Pablo Fernandez Ibañez (Pablofdeez on internet)
 
 I was born in 98 and right now I'm living in Madrid, Spain.
 
-## Official Education 🏆
+### Official Education 🏆
 
 2017-2021 | Economics degree. University of Granada
 2021-currently | Master of Data Science. CUNEF
 
-## Languages and Technologies 💻
+### Languages and Technologies 💻
 
 Python
 R
